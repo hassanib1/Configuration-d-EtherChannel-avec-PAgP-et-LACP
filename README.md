@@ -9,6 +9,7 @@ L'objectif est d'améliorer la bande passante, d'augmenter la redondance et de s
 ![apercus du contenu](etherchannel.jpg)
 
 🔧 Configuration réalisée
+
 Port-Channel	Appareils	Interfaces utilisées	Protocole	Mode utilisé
 1	SWA ↔ SWB	G0/1 - G0/2	PAgP	desirable / auto
 2	SWA ↔ SWC	F0/21 - F0/22	LACP	active / active
