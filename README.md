@@ -20,7 +20,7 @@ Nous avons utilisé deux protocoles différents pour la négociation automatique
 
 ## 🧩 Topologie du réseau
 
-- ![apercus du contenu](etherchannel.com)
+- ![apercus du contenu](etherchannel.jpg)
 ---
 
 ## 🧰 Configuration des commutateurs
