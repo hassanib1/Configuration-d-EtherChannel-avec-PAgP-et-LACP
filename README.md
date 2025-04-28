@@ -6,7 +6,7 @@ LACP (Link Aggregation Control Protocol) : Standard IEEE 802.3ad
 L'objectif est d'améliorer la bande passante, d'augmenter la redondance et de simplifier la gestion des liens.
 
 🧩 Topologie
-
+![apercus du contenu] (etherchannel.jpg)
 
 🔧 Configuration réalisée
 Port-Channel	Appareils	Interfaces utilisées	Protocole	Mode utilisé
